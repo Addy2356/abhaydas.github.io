@@ -1,2 +1,2 @@
-# abhaydas.github.io
-Abhay's website
+# Abhay Das
+This website showcases my work as I progress to learn Data Analytics.
